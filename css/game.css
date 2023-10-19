@@ -1,0 +1,63 @@
+/* CSS Document */
+
+html, body {
+	
+	margin: 0 auto;
+	font-family: sans-serif;
+	font-size: 13px;
+	color: #333;
+        background-image:url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a3f776e1-9f0c-4ee3-a7e2-7e966ce8feca/d7gb44y-12148788-3bf3-46a4-900d-274aa28850af.png");}
+	
+h1 {
+	margin: 2px;
+    font-size: 30px;
+	text-shadow:1px 1px 2px #fff;
+   
+}
+
+
+ div.timer h4{
+	  display: none;
+	
+}
+
+button {
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px; }
+	
+div#content {
+    width: 700px;
+    margin:0 auto;
+	padding: 20px;
+	background-color: black ;
+color: green }
+
+div#controls {
+	text-align: right; }
+	
+div#controls span {
+	font-weight: bold;
+	color: green; }
+	
+div#controls button {
+	margin-left: 20px;
+color: green }
+		
+div#gamespace {
+	margin: 20px; 
+	width: 635px; 
+	padding: 10px;
+	height: 350px;
+	position: relative; 
+	background-image: linear-gradient(black, purple, green);;
+	border: 2px solid black; }
+
+div#gamespace img { position: absolute; }
+
+
+.gameimage{
+  width: 75px;}
+}
+
+p { color: green;}
